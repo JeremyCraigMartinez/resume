@@ -1,4 +1,4 @@
-# Hello! Welcome to my resume repository!
+# Hello, Google! Welcome to my resume repository!
 
 This is a collection of resources like a resume, cover letter, coding projects, etc. and is intended to serve as my professional profile. Below you will find links to these resources.
 
