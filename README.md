@@ -5,7 +5,7 @@ This is a collection of resources like a resume, cover letter, coding projects, 
 ### Professional documents
 
 - [Resume](./RESUME.md)
-- [Cover letter](COVER_LETTER.md)
+- [Cover letter](./cover-letter)
 
 ### Coding projects
 
