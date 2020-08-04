@@ -44,12 +44,13 @@
 - **Software Developer** - *Intern at Minapsys* (June 2014 – July 2014)
     - MongoDB to store i18n translations (Japanese), Node.js API, Angular UI
 
-## Interested in learning/building...
+## Interested in learning more of...
 
 - TensorFlow/Keras
 - Machine Learning / RL
 - NLP
 - Computer vision
+- Finance, stock market analysis, stock behavior predictive modeling
 - Hadoop/Spark
 
 ## References
