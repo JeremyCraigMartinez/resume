@@ -56,10 +56,9 @@
 - Alan Balasundaram ([linkedin](https://www.linkedin.com/in/alanrb/)) – Director of Engineering – Avalara – <balasuar@gmail.com>
 - Aaron Colby ([linkedin](https://www.linkedin.com/in/aaronacolby/)) – Lead Software Engineer – Minapsys – <acolby@live.com>
 - Max Filenko ([linkedin](https://www.linkedin.com/in/mfilenko/)) - Senior Software Engineer - FREE NOW - <linkedin@filenko.ms>
+
 ## Contact
 
-- Email: jeremymartinez11@gmail.com
-- Github: [JeremyCraigMartinez](http://github.com/jeremyCraigMartinez)
-- Bitbucket: [JeremyCraigMartinez](https://bitbucket.org/jeremycraigmartinez/)
-- [StackOverflow](https://stackoverflow.com/users/4064901/jeremy)
-- [LinkedIn](https://www.linkedin.com/pub/jeremy.martinez/88/386/806)
+| | | | | | |
+|-|-|-|-|-|-|
+| [Email](mailto:jeremymartinez11@gmail.com) | [Github](http://github.com/jeremyCraigMartinez) | [Bitbucket](https://bitbucket.org/jeremycraigmartinez/) | [StackOverflow](https://stackoverflow.com/users/4064901/jeremy) | [LinkedIn](https://www.linkedin.com/in/jeremycm) |
