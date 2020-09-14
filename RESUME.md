@@ -46,11 +46,10 @@
 
 ## Interested in learning/building...
 
-- TensorFlow/Keras
-- Machine Learning / RL
-- NLP
-- Computer vision
-- Hadoop/Spark
+| | | | |
+|--------------------------|-------|--------------|-------------------------------|
+| **TensorFlow/PyTorch**  | **Building ML models** | **NLP** | **Computer vision** |
+| **Deep learning** | **CNNs / RNNs** | **Game theory** | **Reinforcement learning** |
 
 ## References
 
